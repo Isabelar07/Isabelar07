@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**Isabelar07/Isabelar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Oi, eu sou a Isabela 👋
+Sou desenvolvedora web full stack, apaixonada por resolver problemas utilizando a programação. :computer:
+ 
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end e Back-end
+ <br/> :blush: &nbsp; Posso te ajudar com HTML, CSS, Javascript, React.js e Node.js
+ <br/> :computer: &nbsp; Minha stack: HTML, CSS, Javascript, React.js, Node.js, Typescript, Express.js, Jest, SQL, Cloud, AWS
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO e COD Mobile, amo livros e animes
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabela-rocha-silveira-4875611a3/)](https://www.linkedin.com/in/isabela-rocha-silveira-4875611a3/) 
+| 
+[![Outlook Badge](https://img.shields.io/badge/-isabelarochas@outlook.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabelarochas@outlook.com.br)](mailto:isabelarochas@outlook.com.br)
