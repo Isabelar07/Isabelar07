@@ -7,4 +7,4 @@ Sou desenvolvedora web full stack, apaixonada por resolver problemas utilizando 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO e COD Mobile, amo livros e animes
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabela-rocha-silveira-4875611a3/)](https://www.linkedin.com/in/isabela-rocha-silveira-4875611a3/) 
 | 
-[![Outlook Badge](https://img.shields.io/badge/-isabelarochas@outlook.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabelarochas@outlook.com.br)](mailto:isabelarochas@outlook.com.br)
+[![Outlook Badge](https://img.shields.io/badge/-isabelarochas@outlook.com.br-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:isabelarochas@outlook.com.br)](mailto:isabelarochas@outlook.com.br)
