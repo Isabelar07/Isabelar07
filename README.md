@@ -1,4 +1,4 @@
-## Oi, eu sou a Isabela 👋
+## Oi, sou a Isabela 👋
 Sou desenvolvedora web full stack, apaixonada por resolver problemas utilizando a programação. :computer:
  
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end e Back-end
